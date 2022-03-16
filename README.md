@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @tedLiu0518
 - 👀 I’m interested in Programming&Artificial intelligence
-- 🌱 I’m currently learning Python at Udacity
 - 📫 You can reach me via mr.liu0518@outlook.com
 
 <!---
